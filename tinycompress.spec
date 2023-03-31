@@ -4,7 +4,7 @@
 
 Name:		tinycompress
 Version:	1.2.8
-Release:	1
+Release:	2
 Summary:	Userspace Interface to Kernel ALSA Compressed Audio APIs
 Group:		Sound/Utilities
 License:	BSD and LGPLv2
