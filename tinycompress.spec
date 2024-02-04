@@ -3,8 +3,8 @@
 %define libname_devel	%mklibname %{name} -d
 
 Name:		tinycompress
-Version:	1.2.8
-Release:	2
+Version:	1.2.11
+Release:	1
 Summary:	Userspace Interface to Kernel ALSA Compressed Audio APIs
 Group:		Sound/Utilities
 License:	BSD and LGPLv2
