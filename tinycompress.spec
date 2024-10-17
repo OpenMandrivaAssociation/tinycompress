@@ -8,7 +8,7 @@ Release:	1
 Summary:	Userspace Interface to Kernel ALSA Compressed Audio APIs
 Group:		Sound/Utilities
 License:	BSD and LGPLv2
-URL:		http://alsa-project.org/
+URL:		https://alsa-project.org/
 Source0:	ftp://ftp.alsa-project.org/pub/tinycompress/%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(alsa)
 BuildRequires:	kernel-headers
