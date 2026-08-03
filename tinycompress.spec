@@ -80,3 +80,4 @@ make check
 %files
 %{_bindir}/cplay
 %{_bindir}/crecord
+%{_bindir}/sofprobeclient
